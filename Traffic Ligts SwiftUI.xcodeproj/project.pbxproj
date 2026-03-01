@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9F50A1492F548A2500A19120 /* test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F50A1482F548A2500A19120 /* test.swift */; };
 		9FD0ABE227BBF3F800815918 /* Traffic_Ligts_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FD0ABE127BBF3F800815918 /* Traffic_Ligts_SwiftUIApp.swift */; };
 		9FD0ABE427BBF3F800815918 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FD0ABE327BBF3F800815918 /* ContentView.swift */; };
 		9FD0ABE627BBF3FA00815918 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FD0ABE527BBF3FA00815918 /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		9F50A1472F54696200A19120 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		9F50A1482F548A2500A19120 /* test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test.swift; sourceTree = "<group>"; };
 		9FD0ABDE27BBF3F800815918 /* Traffic Ligts SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Traffic Ligts SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FD0ABE127BBF3F800815918 /* Traffic_Ligts_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Traffic_Ligts_SwiftUIApp.swift; sourceTree = "<group>"; };
 		9FD0ABE327BBF3F800815918 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				9FD0ABEF27BBF42500815918 /* ColorCircle.swift */,
 				9FD0ABF127BCFCCD00815918 /* ChangeTrafficLightColorButton.swift */,
 				9FD0ABE327BBF3F800815918 /* ContentView.swift */,
+				9F50A1482F548A2500A19120 /* test.swift */,
 				9FD0ABE527BBF3FA00815918 /* Assets.xcassets */,
 				9FD0ABE727BBF3FA00815918 /* Preview Content */,
 			);
@@ -148,6 +151,7 @@
 				9FD0ABF227BCFCCD00815918 /* ChangeTrafficLightColorButton.swift in Sources */,
 				9FD0ABE427BBF3F800815918 /* ContentView.swift in Sources */,
 				9FD0ABE227BBF3F800815918 /* Traffic_Ligts_SwiftUIApp.swift in Sources */,
+				9F50A1492F548A2500A19120 /* test.swift in Sources */,
 				9FD0ABF027BBF42500815918 /* ColorCircle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
