@@ -11,6 +11,7 @@ struct ContentView: View {
     
     private let lightIsOn: Double = 1.0
     private let lightIsOff: Double = 0.3
+    private let testValue = "Test"
     
     
     @State private var buttomTitle = "Start"
