@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9F50A1472F54696200A19120 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		9FD0ABDE27BBF3F800815918 /* Traffic Ligts SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Traffic Ligts SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FD0ABE127BBF3F800815918 /* Traffic_Ligts_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Traffic_Ligts_SwiftUIApp.swift; sourceTree = "<group>"; };
 		9FD0ABE327BBF3F800815918 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -39,6 +40,7 @@
 		9FD0ABD527BBF3F800815918 = {
 			isa = PBXGroup;
 			children = (
+				9F50A1472F54696200A19120 /* .gitignore */,
 				9FD0ABE027BBF3F800815918 /* Traffic Ligts SwiftUI */,
 				9FD0ABDF27BBF3F800815918 /* Products */,
 			);
